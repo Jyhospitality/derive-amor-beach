@@ -1,0 +1,836 @@
+Uri: https://amorbeachresort.com/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/about-us/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/attraction/aguada-fort/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\attraction\aguada-fort\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/attraction/baga-beach/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\attraction\baga-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/attraction/calangute-beach/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\attraction\calangute-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/attraction/candolim-beach/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\attraction\candolim-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/attractions/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\attractions\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/facilities/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\facilities\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/gallery/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\gallery\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/room/luxury-rooms/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\room\luxury-rooms\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/room/sea-view-suites/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\room\sea-view-suites\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/room/superior-rooms/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\room\superior-rooms\index.htm
+Content Type: text/html
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/css/custom-ui.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\css\custom-ui.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/css/normalize.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\css\normalize.min.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/js/lib/modernizr-2.7.1.min.js?ver=2.7.1
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\js\lib\modernizr-2.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/js/scripts.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/animate/animate.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/counterup/jquery.counterup.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\counterup\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/easing/easing.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\easing\easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/filterizr/jquery.filterizr.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\filterizr\jquery.filterizr.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.carousel.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/owl.carousel.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simple-lightbox.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simple-lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simplelightbox.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simplelightbox.min.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/plugins/wow/wow.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\plugins\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-content/themes/leigiabootstrap/style.css?ver=1.1
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\themes\leigiabootstrap\style.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/1-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/1.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/10-1500x650.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\10-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/10-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\10-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/11-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\11-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/11.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\11.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/12-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\12-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/12.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\12.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/15-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\15-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/15.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\15.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/16-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\16-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/16-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\16-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/16.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\16.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/2.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/7-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/7-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\7-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/7.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\7.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/9-1500x650.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\9-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/9-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\9-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/9-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\9-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/9.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\9.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/src="wp-content/uploads/sites/3/2019/05/amor-logo.png" style="margin-top:30px"
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\amor-logo.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/amor_abt-1500x650.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\amor_abt-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/amor_abt-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\amor_abt-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux1-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux1-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux10-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux10-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux13-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux13-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux3-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux5-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/lux8-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\lux8-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/meeting-room-992298_1920-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\meeting-room-992298_1920-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/meeting-room-992298_1920-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\meeting-room-992298_1920-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/meeting-room-992298_1920.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\meeting-room-992298_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/restaurant-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\restaurant-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/restaurant.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\restaurant.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup10-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup10-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup10.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup10.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup11-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup11-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup11.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup11.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup12-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup12-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup12.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup12.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup4-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup4-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup4.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup4.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup5-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup5.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup5.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup6-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup6.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup6.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup7-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup7-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup7.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup7.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup8-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup8-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup8.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup8.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup9-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup9-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2019/05/sup9.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2019\05\sup9.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Aguada-1500x650.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Aguada-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Aguada-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Aguada-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Aguada-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Aguada-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Aguada.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Aguada.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-1024x576.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-1536x864.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-300x169.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga-768x432.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Baga.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Baga.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/best-rate-1.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\best-rate-1.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-1024x576.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-1536x864.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-300x169.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute-768x432.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Calangute.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Calangute.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-1024x576.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-1536x864.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-300x169.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim-768x432.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Candolim.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Candolim.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Checkin.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Checkin.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Exclusive-Offers.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Exclusive-Offers.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about-300x300.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about-768x768.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/home_about.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\home_about.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/No-hidden-charges.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\No-hidden-charges.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/turndown-service.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\turndown-service.png
+Content Type: image/png
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-4-150x150.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-4-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-4.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-4.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-5-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-5.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-5.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-6-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-6.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-6.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-7-500x500.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-7-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2020/09/Untitled-design-7.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2020\09\Untitled-design-7.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2021/02/Untitled-design-47.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2021\02\Untitled-design-47.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-content/uploads/sites/3/2022/06/WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-content\uploads\sites\3\2022\06\WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+Content Type: image/jpeg
+
+Uri: https://amorbeachresort.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://amorbeachresort.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorbeachresort.com/wp-json/
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Faguada-fort%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Faguada-fort%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fbaga-beach%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fbaga-beach%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fcalangute-beach%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fcalangute-beach%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fcandolim-beach%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattraction%2Fcandolim-beach%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattractions%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fattractions%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Ffacilities%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Ffacilities%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fluxury-rooms%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fluxury-rooms%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fsea-view-suites%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fsea-view-suites%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fsuperior-rooms%2F
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/oembed/1.0/embed?url=https:%2F%2Famorbeachresort.com%2Froom%2Fsuperior-rooms%2F&format=xml
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/attraction/1898
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\attraction\1898
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/attraction/1901
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\attraction\1901
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/attraction/1904
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\attraction\1904
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/attraction/1907
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\attraction\1907
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/pages/156
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\pages\156
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/pages/183
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\pages\183
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/pages/189
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\pages\189
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/pages/319
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\pages\319
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/pages/323
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\pages\323
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/room/1877
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\room\1877
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/room/1882
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\room\1882
+Content Type: application/json
+
+Uri: https://amorbeachresort.com/wp-json/wp/v2/room/1886
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\wp-json\wp\v2\room\1886
+Content Type: application/json
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\ajax\libs\popper.js\1.14.3\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\ajax\libs\waypoints\2.0.3\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Mr+Bedfort&family=Mrs+Sheppards&display=swap
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display&display=swap
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gg.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\lilyscriptone\v15\LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBiclio.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\mrbedfort\v21\MQpR-WCtNZSWAdTMwBiclio.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig3vg.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\mrssheppards\v21\PN_2Rfm9snC0XUGoEZhb91ig3vg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v29/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\playfairdisplay\v29\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://i.ibb.co/k6SYj2M/polynesia-3021072-1920.jpg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\k6SYj2M\polynesia-3021072-1920.jpg
+Content Type: image/jpeg
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\bootstrap\4.1.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\bootstrap\4.1.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css?ver=1.0
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\releases\v5.3.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.transparenttextures.com/patterns/arches.png
+File Name: C:\Downloaded Web Sites\amorbeachresort.com\patterns\arches.png
+Content Type: image/png
+

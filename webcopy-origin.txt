@@ -1,0 +1,2048 @@
+Uri: http://amorgroupofhotels.com/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/10-best-venues-to-celebrate-new-year-eve/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\10-best-venues-to-celebrate-new-year-eve\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/5-best-tattoo-studios-where-you-can-get-inked/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\5-best-tattoo-studios-where-you-can-get-inked\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/5-exotic-places-to-visit-in-goa-during-monsoons/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\5-exotic-places-to-visit-in-goa-during-monsoons\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/5-famous-temples-to-visit-in-north-goa/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\5-famous-temples-to-visit-in-north-goa\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/6-famous-churches-in-goa-to-must-visit/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\6-famous-churches-in-goa-to-must-visit\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/6-lesser-known-beaches-of-goa/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\6-lesser-known-beaches-of-goa\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/about-us/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\about-us\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/an-evening-at-saturday-night-market/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\an-evening-at-saturday-night-market\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/blog/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\blog\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/celebration-of-st-francis-xavier-feast-old-goa-feast/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\celebration-of-st-francis-xavier-feast-old-goa-feast\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/contact-us/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/gallery/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\gallery\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/goa-sunrise-and-more-only-in-hollant-beach/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\goa-sunrise-and-more-only-in-hollant-beach\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/location/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\location\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/location/calangute/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\location\calangute\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/location/candolim/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\location\candolim\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/offer/3-nights-4-days-package/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\offer\3-nights-4-days-package\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/safety-protocols-to-follow-during-your-vacations-in-goa/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\safety-protocols-to-follow-during-your-vacations-in-goa\index.htm
+Content Type: text/html
+
+Uri: http://amorgroupofhotels.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/css/custom-ui.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\css\custom-ui.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/css/normalize.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\css\normalize.min.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/js/lib/modernizr-2.7.1.min.js?ver=2.7.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\js\lib\modernizr-2.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/js/scripts.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/animate/animate.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/counterup/jquery.counterup.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\counterup\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/easing/easing.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\easing\easing.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/filterizr/jquery.filterizr.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\filterizr\jquery.filterizr.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.carousel.min.css?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.video.play.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/owlcarousel/owl.carousel.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simple-lightbox.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simple-lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simplelightbox.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simplelightbox.min.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/plugins/wow/wow.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\plugins\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-content/themes/leigiabootstrap/style.css?ver=1.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\themes\leigiabootstrap\style.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/1-2-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\1-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/1-2-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\1-2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/1-2.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/1-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\1.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/10-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\10-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/10.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\10.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/5-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/5-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/5.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\5.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/abr-home-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\abr-home-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/abr-home.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\abr-home.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/Aerial_Candolim_Beach-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\Aerial_Candolim_Beach-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/Aerial_Candolim_Beach-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\Aerial_Candolim_Beach-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/Aerial_Candolim_Beach.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\Aerial_Candolim_Beach.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/calangute-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\calangute-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/calangute-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\calangute-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/calangute.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\calangute.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/front-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\front-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/front.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\front.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about-1024x1024.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about-300x300.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about-768x768.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/home_about.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\home_about.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/restuarant-1500x650.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\restuarant-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/02/restuarant-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\02\restuarant-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/06/amorblog-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\06\amorblog-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/06/amorblog-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\06\amorblog-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/06/amorblog.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\06\amorblog.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/07/amorblog-2-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\07\amorblog-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/07/amorblog-2-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\07\amorblog-2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/07/amorblog-2.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\07\amorblog-2.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/08/amorblog-1-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\08\amorblog-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/08/amorblog-1-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\08\amorblog-1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/08/amorblog-1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\08\amorblog-1.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/09/amor-grp-blue-png.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\09\amor-grp-blue-png.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/09/blog-16-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\09\blog-16-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/09/blog-16-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\09\blog-16-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/09/blog-16.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\09\blog-16.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/10/blog-17-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\10\blog-17-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/10/blog-17-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\10\blog-17-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/10/blog-17.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\10\blog-17.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/10/googlelogo.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\10\googlelogo.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/11/blog-12-150x150.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\11\blog-12-150x150.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/11/blog-12-500x500.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\11\blog-12-500x500.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/11/blog-12.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\11\blog-12.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/11/Untitled-design-3.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\11\Untitled-design-3.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/12/blog-21-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\12\blog-21-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/12/blog-21-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\12\blog-21-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2020/12/blog-21.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2020\12\blog-21.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/blog-15-150x150.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\blog-15-150x150.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/blog-15-500x500.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\blog-15-500x500.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/blog-15.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\blog-15.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-10-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-10-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-10.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-10.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-11-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-11-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-11.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-11.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-12-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-12-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-12.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-12.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-13-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-13-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-13.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-13.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-14-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-14-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-14.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-14.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-15-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-15-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-15.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-15.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-17-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-17-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-17.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-17.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-18-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-18-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-18.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-18.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-19-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-19-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-19.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-19.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-21-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-21-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-21.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-21.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-22-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-22-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-22.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-22.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-23-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-23-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-23.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-23.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-24-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-24-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-24.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-24.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-25-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-25-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-25.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-25.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-26-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-26-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-26.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-26.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-27-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-27-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-27.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-27.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-28-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-28-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-28.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-28.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-29-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-29-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-29.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-29.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-30-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-30-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-30.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-30.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-31-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-31-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-31.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-31.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-32-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-32-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-32.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-32.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-34-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-34-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-34.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-34.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-35-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-35-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-35.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-35.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-36-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-36-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-36.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-36.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-37-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-37-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-37.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-37.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-38-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-38-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-38.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-38.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-39-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-39-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-39.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-39.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-40-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-40-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-40.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-40.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-41-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-41-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-41.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-41.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-42-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-42-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-42.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-42.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-43-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-43-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-43.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-43.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-44-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-44-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-44.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-44.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-45-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-45-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-45.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-45.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-46-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-46-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-46.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-46.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-8-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-8-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/01/Untitled-design-8.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\01\Untitled-design-8.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8-1024x1024.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8-1024x1024.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8-150x150.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8-150x150.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8-300x300.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8-300x300.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8-500x500.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8-500x500.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8-768x768.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8-768x768.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/2021-03-10-8.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\2021-03-10-8.png
+Content Type: image/png
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/hollant-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\hollant-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/hollant-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\hollant-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2021/03/hollant.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2021\03\hollant.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2022/04/derive-hotel-11-1-1500x650.jpeg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2022\04\derive-hotel-11-1-1500x650.jpeg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2022/04/derive-hotel-11-1-500x500.jpeg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2022\04\derive-hotel-11-1-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2022/04/derive-hotel-8-1-1500x650.jpeg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2022\04\derive-hotel-8-1-1500x650.jpeg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2022/04/derive-hotel-8-1-500x500.jpeg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2022\04\derive-hotel-8-1-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-content\uploads\2022\06\WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+Content Type: image/jpeg
+
+Uri: http://amorgroupofhotels.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://amorgroupofhotels.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://amorgroupofhotels.com/wp-json/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F10-best-venues-to-celebrate-new-year-eve%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F10-best-venues-to-celebrate-new-year-eve%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-best-tattoo-studios-where-you-can-get-inked%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-best-tattoo-studios-where-you-can-get-inked%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-exotic-places-to-visit-in-goa-during-monsoons%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-exotic-places-to-visit-in-goa-during-monsoons%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-famous-temples-to-visit-in-north-goa%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F5-famous-temples-to-visit-in-north-goa%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F6-famous-churches-in-goa-to-must-visit%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F6-famous-churches-in-goa-to-must-visit%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F6-lesser-known-beaches-of-goa%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2F6-lesser-known-beaches-of-goa%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fabout-us%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fabout-us%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fan-evening-at-saturday-night-market%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fan-evening-at-saturday-night-market%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fcelebration-of-st-francis-xavier-feast-old-goa-feast%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fcelebration-of-st-francis-xavier-feast-old-goa-feast%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fcontact-us%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fcontact-us%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fgallery%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fgallery%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fgoa-sunrise-and-more-only-in-hollant-beach%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fgoa-sunrise-and-more-only-in-hollant-beach%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Flocation%2Fcalangute%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Flocation%2Fcalangute%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Flocation%2Fcandolim%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Flocation%2Fcandolim%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Foffer%2F3-nights-4-days-package%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Foffer%2F3-nights-4-days-package%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fsafety-protocols-to-follow-during-your-vacations-in-goa%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/oembed/1.0/embed?url=http:%2F%2Famorgroupofhotels.com%2Fsafety-protocols-to-follow-during-your-vacations-in-goa%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/location/198
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\location\198
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/location/202
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\location\202
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/offer/594
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\offer\594
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/pages/167
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\pages\167
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/pages/220
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\pages\220
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/pages/232
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\pages\232
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/pages/235
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\pages\235
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/433
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\433
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/441
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\441
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/445
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\445
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/464
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\464
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/492
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\492
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/530
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\530
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/534
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\534
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/542
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\542
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/592
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\592
+Content Type: application/json
+
+Uri: http://amorgroupofhotels.com/wp-json/wp/v2/posts/607
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\wp-json\wp\v2\posts\607
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/about-us/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\about-us\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/arpora-go-karting/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\arpora-go-karting\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/baga-beach/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\baga-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/calangute-beach/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\calangute-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/candolim-beach/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\candolim-beach\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/chapora-fort/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\chapora-fort\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/fort-aguada/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\fort-aguada\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/saturday-night-market/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\saturday-night-market\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/snow-park-baga/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\snow-park-baga\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attraction/splashdown-waterpark/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attraction\splashdown-waterpark\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/attractions/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\attractions\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/contact-us/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/facilities/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\facilities\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/gallery/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\gallery\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/room/classic/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\room\classic\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/room/elite/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\room\elite\index.htm
+Content Type: text/html
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/css/custom-ui.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\css\custom-ui.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/css/normalize.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\css\normalize.min.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/js/lib/modernizr-2.7.1.min.js?ver=2.7.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\js\lib\modernizr-2.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/js/scripts.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/animate/animate.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/counterup/jquery.counterup.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\counterup\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/easing/easing.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\easing\easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/filterizr/jquery.filterizr.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\filterizr\jquery.filterizr.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.carousel.min.css?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/owlcarousel/assets/owl.video.play.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/owlcarousel/owl.carousel.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simple-lightbox.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simple-lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/simplelightbox/simplelightbox.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\simplelightbox\simplelightbox.min.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/plugins/wow/wow.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\plugins\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/themes/leigiabootstrap/style.css?ver=1.1
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\themes\leigiabootstrap\style.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/1-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\1.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/12-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\12-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/12-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\12-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/12.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\12.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/13-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\13-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/13.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\13.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/14-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\14-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/14.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\14.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/15-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\15-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/15.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\15.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/16-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\16-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/16.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\16.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/18-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\18-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/18.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\18.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/19-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\19-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/19.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\19.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/2-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/2.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\2.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/2021-02-26-2-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\2021-02-26-2-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/2021-02-26-4-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\2021-02-26-4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/2021-02-26-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\2021-02-26-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/23-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\23-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/23.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\23.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/24-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\24-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/24.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\24.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/25-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\25-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/25.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\25.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/26-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\26-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/26.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\26.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/27-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\27-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/27.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\27.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/28-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\28-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/28-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\28-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/28.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\28.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/29-1500x650.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\29-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/29-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\29-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/29.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\29.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/3-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\3-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/3.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\3.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/30-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\30-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/30.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\30.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/31-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\31-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/31.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\31.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/32-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\32-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/32.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\32.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/33-1-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\33-1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/33-1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\33-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/34-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\34-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/34.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\34.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/36-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\36-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/36-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\36-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/36.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\36.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/4-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/4-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\4-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/4.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\4.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/5-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\5-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/5.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\5.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/6-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\6-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/6.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\6.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/8-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\8-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/8.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\8.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/aguada.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\aguada.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/baga.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\baga.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/best-rate.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\best-rate.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Calangute.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Calangute.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Candolim.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Candolim.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Checkin.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Checkin.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Exclusive-Offers.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Exclusive-Offers.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about-1024x1024.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about-300x300.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about-768x768.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/home_about.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\home_about.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/nearby.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\nearby.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/No-hidden-charges.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\No-hidden-charges.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/recreation.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\recreation.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/restuarant-1500x650.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\restuarant-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/restuarant-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\restuarant-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/restuarant-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\restuarant-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/restuarant.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\restuarant.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Room1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Room1.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/swimming-pool-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\swimming-pool-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/swimming-pool.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\swimming-pool.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/turndown-service.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\turndown-service.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/02/Untitled-design-11-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\02\Untitled-design-11-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/04/Derive_amor.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\04\Derive_amor.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/Chapora_Fort-1500x650.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\Chapora_Fort-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/Chapora_Fort-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\Chapora_Fort-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/Chapora_Fort-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\Chapora_Fort-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/Chapora_Fort.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\Chapora_Fort.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\goa-karting-racing-arpora-goa-go-karting-clubs-8zz04f8i9w.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/sat-night-market.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\sat-night-market.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/snow-park.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\snow-park.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-1024x576.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-150x150.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-1536x864.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-300x169.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1-768x432.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/05/splashdown-1.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\05\splashdown-1.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/06/amor-front-1500x650.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\06\amor-front-1500x650.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/06/amor-front-500x500.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\06\amor-front-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/11/googlelogo.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\11\googlelogo.png
+Content Type: image/png
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2020/11/Untitled-design-3.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2020\11\Untitled-design-3.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-content/uploads/sites/2/2022/06/WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-content\uploads\sites\2\2022\06\WhatsApp-Image-2022-06-07-at-3.04.30-PM.jpg
+Content Type: image/jpeg
+
+Uri: https://amorgroupofhotels.com/derive/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://amorgroupofhotels.com/derive/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fabout-us%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fabout-us%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Farpora-go-karting%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Farpora-go-karting%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fbaga-beach%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fbaga-beach%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fcalangute-beach%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fcalangute-beach%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fcandolim-beach%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fcandolim-beach%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fchapora-fort%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fchapora-fort%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Ffort-aguada%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Ffort-aguada%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsaturday-night-market%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsaturday-night-market%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsnow-park-baga%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsnow-park-baga%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsplashdown-waterpark%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattraction%2Fsplashdown-waterpark%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattractions%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fattractions%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fcontact-us%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fcontact-us%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Ffacilities%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Ffacilities%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fgallery%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Fgallery%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Froom%2Fclassic%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Froom%2Fclassic%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Froom%2Felite%2F
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/oembed/1.0/embed?url=https:%2F%2Famorgroupofhotels.com%2Fderive%2Froom%2Felite%2F&format=xml
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/217
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\217
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/219
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\219
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/221
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\221
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/223
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\223
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/428
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\428
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/431
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\431
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/434
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\434
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/438
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\438
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/attraction/441
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\attraction\441
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/156
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\156
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/183
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\183
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/189
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\189
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/191
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\191
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/319
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\319
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/pages/323
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\pages\323
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/room/185
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\room\185
+Content Type: application/json
+
+Uri: https://amorgroupofhotels.com/derive/wp-json/wp/v2/room/187
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\derive\wp-json\wp\v2\room\187
+Content Type: application/json
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\ajax\libs\popper.js\1.14.3\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\ajax\libs\waypoints\2.0.3\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Mr+Bedfort&family=Mrs+Sheppards&display=swap
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display&display=swap
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lilyscriptone/v15/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gg.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\lilyscriptone\v15\LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBiclio.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\mrbedfort\v21\MQpR-WCtNZSWAdTMwBiclio.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig3vg.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\mrssheppards\v21\PN_2Rfm9snC0XUGoEZhb91ig3vg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v29/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\playfairdisplay\v29\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://i.ibb.co/k6SYj2M/polynesia-3021072-1920.jpg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\k6SYj2M\polynesia-3021072-1920.jpg
+Content Type: image/jpeg
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBwfFSYAuPWyIjAXgY5UD7o16vksq1Ga-g
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\bootstrap\4.1.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js?ver=1.0.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\bootstrap\4.1.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css?ver=1.0
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot?
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.svg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff2
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot?
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.svg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot?
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.svg
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.ttf
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\releases\v5.3.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-9LWED0W1TK
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.transparenttextures.com/patterns/arches.png
+File Name: C:\Users\shubham\Desktop\sona\office\amorgroupofhotels.com\patterns\arches.png
+Content Type: image/png
+

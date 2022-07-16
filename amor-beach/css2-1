@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Mr Bedfort';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mrbedfort/v21/MQpR-WCtNZSWAdTMwBiclio.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mrs Sheppards';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mrssheppards/v21/PN_2Rfm9snC0XUGoEZhb91ig3vg.ttf) format('truetype');
+}
